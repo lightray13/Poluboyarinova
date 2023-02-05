@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmList</string>
+    <string name="film_description">%1$s (%2$d)</string>
+    <string name="popular">Популярное</string>
+    <string name="favorites">Избранное</string>
+    <string name="data_error">Произошла ошибка при запуске данных,\nпроверьте подключение к сети</string>
+    <string name="repeat">Повторить</string>
+    <string name="film_add_to_favorites">Фильм %1$s добавлен в Избранное</string>
+    <string name="film_delete_from_favorites">Фильм %1$s удален из Избранного</string>
+    <string name="search">Поиск</string>
+    <string name="genres">Жанры:</string>
+    <string name="countries">Страны:</string>
+</resources>
